@@ -139,7 +139,7 @@ Attribute
     ![]({{site.baseurl}}/images/EditingWithJOSM_html_67f320b3_en.png)
 
 - Klicke auf „Änderungen hochladen“
-- Wenn du zum ersten Mal Änderungen bei OpenStreetmap speicherst, wirst du nach dem Benutzernamen und Kennwort gefragt, welche du in Kapitel angegeben hast.
+- Wenn du zum ersten Mal Änderungen bei OpenStreetmap speicherst, wirst du nach dem Benutzernamen und Kennwort gefragt, welche du in [Kapitel 2]({{site.baseurl}}/de/josm/more-about-josm/) angegeben hast.
 - Gib sie in dem Fenster ein, welches erscheint. Wenn du den Haken in dem Kästchen setzt, werden Benutzername und Kennwort gespeichert, sodass du sie in Zukunft nicht mehr eingeben musst. Klcike auf „Authentifizieren“.
 
     ![]({{site.baseurl}}/images/EditingWithJOSM_html_m5f20c80_en.png)
