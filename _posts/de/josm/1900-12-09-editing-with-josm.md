@@ -9,7 +9,7 @@ category: josm
 Editieren mit JOSM
 =================
 
-In [Kapitel 3]({{site.baseurl}}/en/josm/start-josm/) hast du JOSM installiert und deine ersten Punkte, Linien und Grundrisse gezeichnet. Du hast Vorlagen für diese Objekte hinzugefügt um sie mit weiteren Informationen zu ergänzen. Am Ende konntest du in JOSM deine eigene Karte zeichnen.
+In [Kapitel 3]({{site.baseurl}}/de/josm/start-josm/) hast du JOSM installiert und deine ersten Punkte, Linien und Grundrisse gezeichnet. Du hast Vorlagen für diese Objekte hinzugefügt um sie mit weiteren Informationen zu ergänzen. Am Ende konntest du in JOSM deine eigene Karte zeichnen.
 
 Das Kartenzeichnen in Kapitel 3 war eine Übung, um JOSM kennenzulernen und herauszufinden wie man Orte auf der Karte erstellt. Aber unsere Karten waren nicht präzise, denn wir haben keine ortsbezogenen Informationen hinzugefügt. Die vorherigen zwei Kapitel haben sich mit GPS und Walking Papers beschäftigt, zwei Möglichkeiten um die tatsächliche Lage von Orten zu bestimmen (GPS bestimmt die Position mit einer Abweichung von bis zu 10m, ist also nicht komplett genau, vor allem wenn du nur einen Wegpunkt erfasst). Diese Positionsangaben werden durch Koordinaten dargestellt.
 
@@ -92,7 +92,7 @@ Editieren
 
     ![]({{site.baseurl}}/images/EditingWithJOSM_html_m2eb4096c_en.png)
 
-- Benutze das **Zeichnen-Werkzeug** um neue Punkte, Linien und Grundrisse zu zeichnen. Beschreibe diese Objekte in dem du aus dem Vorlagenmenü auswählst, so wie in [Kapitel 3]({{site.baseurl}}/en/josm/start-josm/). 
+- Benutze das **Zeichnen-Werkzeug** um neue Punkte, Linien und Grundrisse zu zeichnen. Beschreibe diese Objekte in dem du aus dem Vorlagenmenü auswählst, so wie in [Kapitel 3]({{site.baseurl}}/de/josm/start-josm/). 
 - Denk daran, dass deine GPS-Wegpunkte und deine Walking Papers nicht automatisch zu OpenStreetMap gelangen. Du musst sie *digital* zur OSM Karte hinzufügen in dem du das Zeichnen-Werkzeug benutzt. Aber deine Punkte, Spuren und Walking Papers sind im Hintergrund als eine Art Schablone sichtbar.
 - Nehmen wir an, dass du einen Wegpunkt mit dem Namen 030 auf deinem GPS-Gerät hast und in deinem Notizbuch aufgeschrieben hast, dass 030 eine Schule ist. Um diesen Punkt zu OpenStreetMap hinzuzufügen, wähle das Zeichnen-Werkzeug aus und mache einen Doppelklick auf den Punkt 030 in der Kartenansicht. Damit erstellst du einen Punkt. Dann wählst du im Vorlagenmenü die Vorlage für „Schule“ aus. Gib den Namen der Schule ein und klicke auf „Vorlage anwenden“. Wiederhole diesen Vorgang um Linien und Grundrisse hinzuzufügen.
 
